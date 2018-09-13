@@ -1,0 +1,8 @@
+numpy
+tensorflow
+pillow
+imageio
+pandas
+moviepy
+matplotlib
+requests
